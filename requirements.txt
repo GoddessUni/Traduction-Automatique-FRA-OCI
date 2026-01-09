@@ -1,0 +1,6 @@
+transformers>=4.28.1
+datasets>=2.14
+sacrebleu
+sentencepiece
+accelerate
+torch
